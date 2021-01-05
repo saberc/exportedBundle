@@ -1,0 +1,12 @@
+code: page
+parentCode: homepage
+titles:
+  en: page
+pageModel: 1-2-column
+ownerGroup: free
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: unpublished
+widgets: []

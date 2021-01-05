@@ -1,0 +1,12 @@
+code: qtwo_page_new
+parentCode: homepage
+titles:
+  en: qtwo_page_new
+pageModel: 1-2-column
+ownerGroup: qtwo_group_new
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: published
+widgets: []

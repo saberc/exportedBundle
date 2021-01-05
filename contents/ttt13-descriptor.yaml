@@ -1,0 +1,13 @@
+id: TTT13
+typeCode: TTT
+description: Title6
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: Title
+    value: null
+    values:
+      en: Entando
+    elements: []
+    compositeelements: []
+    listelements: {}
