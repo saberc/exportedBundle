@@ -110,7 +110,7 @@ components:
     - assets/20/20-descriptor.yaml
     - assets/entandoAtPlan/entandoatplan-descriptor.yaml
     - assets/entandoAtWork/entandoatwork-descriptor.yaml
-    - assets/htmlcode/htmlcode-descriptor.yaml
+    - assets/htmlCode/htmlcode-descriptor.yaml
     - assets/18/18-descriptor.yaml
   contents:
     - contents/bnr3-descriptor.yaml
