@@ -108,8 +108,8 @@ components:
     - assets/19/19-descriptor.yaml
     - assets/21/21-descriptor.yaml
     - assets/20/20-descriptor.yaml
-    - assets/entandoatplan/entandoatplan-descriptor.yaml
-    - assets/entandoatwork/entandoatwork-descriptor.yaml
+    - assets/entandoAtPlan/entandoatplan-descriptor.yaml
+    - assets/entandoAtWork/entandoatwork-descriptor.yaml
     - assets/htmlcode/htmlcode-descriptor.yaml
     - assets/18/18-descriptor.yaml
   contents:
